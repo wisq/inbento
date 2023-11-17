@@ -1,0 +1,27 @@
+BOARD
+---
+---
+---
+
+GOAL
+rss
+rrs
+gsg
+
+P1
+[fixed]
+rss
+
+P2
+[fixed]
+rsg
+
+P3
+[fixed]
+grs
+
+P4
+[rotate 1 to 2]
+[rotate 2 to 1]
+1
+2

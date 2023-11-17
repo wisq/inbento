@@ -1,0 +1,29 @@
+BOARD
+rtr
+gsr
+rrr
+
+GOAL
+rrr
+rrg
+rts
+
+P1
+[rotate 1 to 2]
+[rotate 2 to 1]
+-1
+2-
+
+P2
+[rotate 1 to 2]
+[rotate 2 to 1]
+1
+-
+2
+
+P3
+[rotate 1 to 2]
+[rotate 2 to 1]
+1
+-
+2
